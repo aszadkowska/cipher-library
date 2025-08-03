@@ -9,7 +9,6 @@ Lightweight PHP 7.4+ library that provides three classic substitution ciphers (C
 - **BaconCipher** – 24-letter Baconian cipher with configurable spacing
 - PSR-4 autoloading & strict types
 - PHPUnit 9 tests
-- Automated code-style fixes via **PHP-CS-Fixer**
 
 ---
 
